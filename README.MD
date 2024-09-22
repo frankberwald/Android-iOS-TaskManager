@@ -7,17 +7,17 @@ Little application developed for the Senai's DEVinHouse class, mainly using <str
 
 <h2>This is the Messages screen.</h2>
 <div style="display: flex; justify-content: center;">
-  <img src="https://github.com/user-attachments/assets/6e0ca00f-c4cc-4b70-a967-ae4c8b1624b2" alt="messages" width="425" height="800">
+  <img src="https://i.ibb.co/0YkLWJp/messages.png" alt="messages" width="425" height="800">
 </div>
 
 <h2>Second is the screen where all created tasks will be displayed.</h2>
 <div style="display: flex; justify-content: center;">
-  <img src="https://github.com/user-attachments/assets/4a677c6e-3f18-4b7c-90a8-69471948acef" alt="Tasks" width="425" height="800">
+  <img src="https://i.ibb.co/Yb17RVP/Tasks.png" alt="Tasks" width="425" height="800">
 </div>
 
 <h2>And last the "Last Activity" screen, the title is self explanatory but this screen basically is where all the last modified or created tasks will be displayed</h2>
 <div style="display: flex; justify-content: center;">
-  <img src="https://github.com/user-attachments/assets/410ac87b-6e2a-416e-9600-13c5db25b8c3" alt="Activity" width="425" height="800">
+  <img src="https://i.ibb.co/JHBMcLJ/Activity.png" alt="Activity" width="425" height="800">
 </div>
 
 <h1> Functionalities </h1>
